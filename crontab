@@ -1,0 +1,1 @@
+15 6 * * * sudo -u ukoenig /media/gruft/Daten/Zeitung/Software/grabZeitung.sh >  /var/log/zeitung-`date --iso-8601=minutes`.log 2>&1
