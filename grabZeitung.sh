@@ -1,0 +1,1 @@
+../../grabZeitung.sh
